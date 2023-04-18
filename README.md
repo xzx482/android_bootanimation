@@ -1,1 +1,2 @@
 # android_bootanimation
+这是一个把安卓开机动画替换为原生安卓的magisk模块，它还会使开机时不播放音频
